@@ -4,6 +4,8 @@
 # to your Github setup. For example, if your site and data repositories are:
 # -- https://github.com/my-awesome-github-org/my-awesome-site-repo
 # -- https://github.com/my-awesome-github-org/my-awesome-data-repo
+#https://github.com/Michel228/open-sdg-site-starter/
+#https://github.com/Michel228/open-sdg-data-starter/
 # Then you would want to make these replacements throughout this file:
 # -- replace "my-github-org" with "my-awesome-github-org"
 # -- replace "open-sdg-site-starter" with "my-awesome-site-repo"
@@ -20,7 +22,7 @@ url: ""
 data_dir: data
 environment: staging
 # Replace my-github-org and open-sdg-data-starter as needed.
-remote_data_prefix: "https://my-github-org.github.io/open-sdg-data-starter"
+remote_data_prefix: "https://Michel228.github.io/open-sdg-data-starter"
 remote_translations:
   - https://open-sdg.github.io/sdg-translations/translations-0.8.1.json
 
